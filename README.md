@@ -19,5 +19,5 @@ Logo após, realizei algumas alterações no meu projeto:
 Em seguida atualizei o projeto no repositório:
 
 <ul>
-  <li><strong>git pull origin nome-branch ou git pull</strong>: Atualiza um único branch ou TODOS os branchs</li>
+  <li><strong>git pull origin nome-branch</strong> ou <strong>git pull</strong>: Atualiza um único branch ou TODOS os branchs</li>
 </ul>
