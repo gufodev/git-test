@@ -13,7 +13,7 @@ Logo após, realizei algumas alterações no meu projeto:
 
 <ul>
   <li><strong>git add nome-arquivo</strong>: prepara o arquivo para ser comitado (1º estágio)</li>
-  <li><strong>git commit -m 'texto'</strong>: comita o arquivo (2º estágio)</li>
+  <li><strong>git commit -m 'texto'</strong>: comita o(s) arquivo(s) (2º estágio)</li>
 </ul>
 
 Em seguida atualizei o projeto no repositório:
