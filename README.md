@@ -5,15 +5,15 @@
 Após ter criado a conta e adicionado a SSH key, no terminal da minha máquina, entrei na pasta do meu projeto e executei os seguintes comandos:
 
 <ul>
-  <li>_git remote add origin_: adiciona o projeto ao github</li>
-  <li>_git push origin master_: sobe o projeto para o repositório</li>
+  <li>*git* remote add origin: adiciona o projeto ao github</li>
+  <li>git push origin master: sobe o projeto para o repositório</li>
 </ul>
 
 Logo após, realizei algumas alterações no meu projeto:
 
 <ul>
   <li>**git add nome-arquivo**: prepara o arquivo para ser comitado (1º estágio)</li>
-  <li>_git commit -m 'texto'_: comita o arquivo (2º estágio)</li>
+  <li>*git commit -m 'texto'*: comita o arquivo (2º estágio)</li>
 </ul>
 
 Em seguida atualizei o projeto no repositório:
