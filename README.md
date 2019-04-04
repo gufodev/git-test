@@ -5,7 +5,7 @@
 Após ter criado a conta e adicionado a SSH key, no terminal da minha máquina, entrei na pasta do meu projeto e executei os seguintes comandos:
 
 <ul>
-  <li><strong>git remote add origin<strong>: adiciona o projeto ao github</li>
+  <li><strong>git remote add origin</strong>: adiciona o projeto ao github</li>
   <li>git push origin master: sobe o projeto para o repositório</li>
 </ul>
 
