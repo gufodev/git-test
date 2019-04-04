@@ -1,6 +1,6 @@
 <h1>Meu primeiro deploy<h1>
 
-<b>Este é meu primeiro projeto no github!</b>
+<strong>Este é meu primeiro projeto no github!</strong>
 
 Após ter criado a conta e adicionado a SSH key, no terminal da minha máquina, entrei na pasta do meu projeto e executei os seguintes comandos:
 
