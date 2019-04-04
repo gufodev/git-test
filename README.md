@@ -1,4 +1,4 @@
-# H1 CURSO GIT E GITHUB - CODE EDUCATION
+# CURSO GIT E GITHUB - CODE EDUCATION
 
 <strong>Este é meu primeiro projeto no github!</strong>
 
