@@ -4,22 +4,22 @@
 
 Após ter criado a conta e adicionado a SSH key, no terminal da minha máquina, entrei na pasta do meu projeto e executei os seguintes comandos:
 
-<ol>
-  <li><u>git remote add origin</u>: adiciona o projeto ao github</li>
-  <li><u>git push origin master</u>: sobe o projeto para o repositório</li>
-</ol>
+<ul>
+  <li>_git remote add origin_: adiciona o projeto ao github</li>
+  <li>_git push origin master_: sobe o projeto para o repositório</li>
+</ul>
 
 Logo após, realizei algumas alterações no meu projeto:
 
-<ol>
-  <li><u>git add <nome_arquivo></u>: prepara o arquivo para ser comitado (1º estágio)</li>
-  <li><u>git commit -m '<texto>'</u>: comita o arquivo (2º estágio)</li>
-</ol>
+<ul>
+  <li>_git add <nome_arquivo>_: prepara o arquivo para ser comitado (1º estágio)</li>
+  <li>_git commit -m '<texto>'_: comita o arquivo (2º estágio)</li>
+</ul>
 
 Em seguida atualizei o projeto no repositório:
 
 <ul>
-  <li><u>git pull origin <nome_branch> ou git pull</u>: Atualiza um único branch ou TODOS os branchs</li>
+  <li>_git pull origin <nome_branch> ou git pull_: Atualiza um único branch ou TODOS os branchs</li>
 </ul>
 
 Este foi o processo de que utilizei para trabalhar com o github.
