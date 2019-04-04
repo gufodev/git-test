@@ -12,7 +12,7 @@ Após ter criado a conta e adicionado a SSH key, no terminal da minha máquina, 
 Logo após, realizei algumas alterações no meu projeto:
 
 <ul>
-  <li>_git add <nome_arquivo>_: prepara o arquivo para ser comitado (1º estágio)</li>
+  <li>__git add <nome_arquivo>__: prepara o arquivo para ser comitado (1º estágio)</li>
   <li>_git commit -m '<texto>'_: comita o arquivo (2º estágio)</li>
 </ul>
 
