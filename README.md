@@ -25,6 +25,7 @@ Em seguida atualizei o projeto no repositório:
 Para gerar um novo Release utilizei os seguintes comandos
 
 <ul>
-  <li><strong>git tag -l</strong>: para lista o ultimo release lançado</li>
-  <li><strong>git tag 1.0.1</strong>: para adicionar uma correção (patch)</li>
+  <li><strong>git tag -l</strong>: lista o ultimo release lançado</li>
+  <li><strong>git tag 1.0.1</strong>: adiciona uma correção (patch)</li>
+  <li><strong>git push origin master --tags</strong>: sobe a tag gerada e gera um novo release</li>
 </ul>
