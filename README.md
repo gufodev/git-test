@@ -21,3 +21,10 @@ Em seguida atualizei o projeto no repositório:
 <ul>
   <li><strong>git pull origin nome-branch</strong> ou <strong>git pull</strong>: Atualiza um único branch ou TODOS os branchs</li>
 </ul>
+
+Para gerar um novo Release utilizei os seguintes comandos
+
+<ul>
+  <li><strong>git tag -l</strong>: para lista o ultimo release lançado</li>
+  <li><strong>git tag 1.0.1</strong>: para adicionar uma correção (patch)</li>
+</ul>
